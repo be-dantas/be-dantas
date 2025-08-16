@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Atualmente sou **cadete na 42**, vivendo uma formação baseada em projetos práticos, colaboração intensa e aprendizado autodirigido.  
 
-- **C**: construindo bases sólidas em lógica, ponteiros, alocação de memória e manipulação de baixo nível. Aprendi a pensar de forma precisa e lidar com detalhes que fazem diferença em performance e segurança.  
+- **C**: construindo bases sólidas em lógica, ponteiros, alocação de memória e manipulação de baixo nível.
 - **Bash**: desenvolvendo scripts para automação de tarefas, manipulação de arquivos e processos, entendendo melhor como o sistema operacional funciona por trás.  
-- **Linux**: mergulhando no ambiente Unix, explorando comandos, permissões, processos e gerenciamento de recursos. Essa prática me trouxe domínio do terminal e confiança para resolver problemas direto na raiz.  
+- **Linux**: mergulhando no ambiente Unix, explorando comandos, permissões, processos e gerenciamento de recursos.
