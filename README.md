@@ -1,22 +1,64 @@
-<!--
-**be-dantas/be-dantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Beatriz Dantas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Developer · Automation · AI · Systems**
 
-### Sobre mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedantas/)
 
-Atualmente sou **cadete na 42**, vivendo uma formação baseada em projetos práticos, colaboração intensa e aprendizado autodirigido.  
+</div>
 
-- **C**: construindo bases sólidas em lógica, ponteiros, alocação de memória e manipulação de baixo nível.
-- **Bash**: desenvolvendo scripts para automação de tarefas, manipulação de arquivos e processos, entendendo melhor como o sistema operacional funciona por trás.  
-- **Linux**: mergulhando no ambiente Unix, explorando comandos, permissões, processos e gerenciamento de recursos.
+---
+
+### 👩🏻‍💻 About me
+
+I like turning ideas and problems into software.
+
+My current interests are around **automation, artificial intelligence and system integration**, while building a strong foundation in software engineering, systems and low-level programming.
+
+Coming from a **Design & UX/UI** background, I enjoy combining technical thinking with a product and user perspective.
+
+---
+
+### ⚡ What I'm into
+
+- 🤖 AI & Prompting
+- ⚙️ Automation & integrations
+- 🔌 MCP
+- ☁️ AWS
+- 🐧 Linux & Unix systems
+- 🐳 Docker
+- 🧠 Algorithms & data structures
+- 💾 Memory management & threads
+- 🧪 Test-driven development
+- 🎨 UX/UI & interface design
+
+---
+
+### 🛠️ Tech
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,bash,linux,docker,mysql,git,aws,figma" />
+</p>
+
+**Also exploring:** MCP · AI · TDD · Algorithms · Data Structures · Systems Programming
+
+---
+
+### 🌱 Currently building
+
+> Learning by building, breaking, debugging and building again.
+
+I'm especially interested in projects that connect **software + automation + AI**, while continuing to deepen my understanding of how things work under the hood.
+
+---
+
+### 📫 Let's connect
+
+**LinkedIn:** [linkedin.com/in/bedantas](https://www.linkedin.com/in/bedantas/)
+
+<div align="center">
+
+`design × code × automation × curiosity`
+
+</div>
