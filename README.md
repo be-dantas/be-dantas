@@ -4,19 +4,15 @@
 
 **Software Developer · Automation · AI · Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedantas/)
-
 </div>
 
 ---
 
 ### 👩🏻‍💻 About me
 
-I like turning ideas and problems into software.
+I have experience with automation, artificial intelligence, and system integration, along with a solid foundation in software engineering, systems, and low-level programming.
 
-My current interests are around **automation, artificial intelligence and system integration**, while building a strong foundation in software engineering, systems and low-level programming.
-
-Coming from a **Design & UX/UI** background, I enjoy combining technical thinking with a product and user perspective.
+My background also includes Design and UX/UI, allowing me to combine technical thinking with a product and user-centered perspective.
 
 ---
 
@@ -42,14 +38,6 @@ Coming from a **Design & UX/UI** background, I enjoy combining technical thinkin
 </p>
 
 **Also exploring:** MCP · AI · TDD · Algorithms · Data Structures · Systems Programming
-
----
-
-### 🌱 Currently building
-
-> Learning by building, breaking, debugging and building again.
-
-I'm especially interested in projects that connect **software + automation + AI**, while continuing to deepen my understanding of how things work under the hood.
 
 ---
 
