@@ -16,21 +16,6 @@ My background also includes Design and UX/UI, allowing me to combine technical t
 
 ---
 
-### ⚡ What I'm into
-
-- 🤖 AI & Prompting
-- ⚙️ Automation & integrations
-- 🔌 MCP
-- ☁️ AWS
-- 🐧 Linux & Unix systems
-- 🐳 Docker
-- 🧠 Algorithms & data structures
-- 💾 Memory management & threads
-- 🧪 Test-driven development
-- 🎨 UX/UI & interface design
-
----
-
 ### 🛠️ Tech
 
 <p align="left">
